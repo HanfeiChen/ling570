@@ -1,0 +1,7 @@
+check_hw*.sh
+submit-file-list
+*.tar.gz
+examples/
+sample_data/
+20_newsgroups/
+

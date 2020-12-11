@@ -1,0 +1,52 @@
+state_num=2209
+sym_num=7906
+init_line_num=1
+trans_line_num=103823
+emiss_line_num=411908
+warning: the trans_prob_sum for state NN_EOS is 0.1000000000
+warning: the trans_prob_sum for state RBR_EOS is 0.9000000002
+warning: the trans_prob_sum for state VB_EOS is 0.9000000002
+warning: the trans_prob_sum for state JJS_EOS is 0.9000000002
+warning: the trans_prob_sum for state VBN_EOS is 0.9000000002
+warning: the trans_prob_sum for state ``_EOS is 0.1000000000
+warning: the trans_prob_sum for state PDT_EOS is 0.9000000002
+warning: the trans_prob_sum for state JJ_EOS is 0.9000000002
+warning: the trans_prob_sum for state RB_EOS is 0.9000000002
+warning: the trans_prob_sum for state WP$_EOS is 0.9000000002
+warning: the trans_prob_sum for state FW_EOS is 0.9000000002
+warning: the trans_prob_sum for state -LRB-_EOS is 0.9000000002
+warning: the trans_prob_sum for state LS_EOS is 0.9000000002
+warning: the trans_prob_sum for state ''_EOS is 0.1000000000
+warning: the trans_prob_sum for state JJR_EOS is 0.9000000002
+warning: the trans_prob_sum for state -RRB-_EOS is 0.1000000000
+warning: the trans_prob_sum for state WP_EOS is 0.9000000002
+warning: the trans_prob_sum for state PRP$_EOS is 0.9000000002
+warning: the trans_prob_sum for state PRP_EOS is 0.9000000002
+warning: the trans_prob_sum for state NNP_EOS is 0.1000000000
+warning: the trans_prob_sum for state WDT_EOS is 0.9000000002
+warning: the trans_prob_sum for state IN_EOS is 0.1000000000
+warning: the trans_prob_sum for state VBZ_EOS is 0.9000000002
+warning: the trans_prob_sum for state POS_EOS is 0.9000000002
+warning: the trans_prob_sum for state #_EOS is 0.9000000002
+warning: the trans_prob_sum for state VBD_EOS is 0.9000000002
+warning: the trans_prob_sum for state MD_EOS is 0.9000000002
+warning: the trans_prob_sum for state SYM_EOS is 0.9000000002
+warning: the trans_prob_sum for state BOS_EOS is 0.9000000002
+warning: the trans_prob_sum for state TO_EOS is 0.9000000002
+warning: the trans_prob_sum for state ._EOS is 0.1000000000
+warning: the trans_prob_sum for state RBS_EOS is 0.9000000002
+warning: the trans_prob_sum for state DT_EOS is 0.9000000002
+warning: the trans_prob_sum for state RP_EOS is 0.9000000002
+warning: the trans_prob_sum for state EOS_EOS is 0.9000000002
+warning: the trans_prob_sum for state $_EOS is 0.9000000002
+warning: the trans_prob_sum for state CD_EOS is 0.9000000002
+warning: the trans_prob_sum for state :_EOS is 0.1000000000
+warning: the trans_prob_sum for state VBP_EOS is 0.9000000002
+warning: the trans_prob_sum for state CC_EOS is 0.9000000002
+warning: the trans_prob_sum for state NNPS_EOS is 0.9000000002
+warning: the trans_prob_sum for state UH_EOS is 0.9000000002
+warning: the trans_prob_sum for state ,_EOS is 0.9000000002
+warning: the trans_prob_sum for state EX_EOS is 0.9000000002
+warning: the trans_prob_sum for state WRB_EOS is 0.9000000002
+warning: the trans_prob_sum for state NNS_EOS is 0.9000000002
+warning: the trans_prob_sum for state VBG_EOS is 0.9000000002

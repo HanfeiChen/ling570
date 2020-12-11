@@ -1,0 +1,5 @@
+Sara is cool . => BOS_BOS BOS_N N_V V_A A_P -2.760477534395843
+cool is nice . => BOS_BOS BOS_N N_V V_A A_P -3.0615075300598242
+ice is cool . => BOS_BOS BOS_N N_V V_A A_P -2.283356279676181
+is ice cool ? => BOS_BOS BOS_V V_N N_A A_P -2.889521915757035
+is cool ice nice ? => BOS_BOS BOS_V V_A A_N N_A A_P -3.8710864337143644

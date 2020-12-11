@@ -1,0 +1,4 @@
+"they" "can" "fish" => *none* 0.0
+"they" "can" "take" "table" => "PRO" "AUX" "VERB" "NOUN" 1.0
+"they" "will" => *none* 0.0
+"can" "buy" => *none* 0.0
